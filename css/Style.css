@@ -100,7 +100,7 @@ button{color:inherit}
 @media(prefers-reduced-motion:reduce){*,*::before,*::after{scroll-behavior:auto!important;transition:none!important;animation:none!important}}
 .avatar {
 overflow: hidden;
-  background-image: url("/images/cfb9a290-425d-4245-ba38-f6457007d9f8.png");
+  background-image: url("../images/cfb9a290-425d-4245-ba38-f6457007d9f8.png");
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
